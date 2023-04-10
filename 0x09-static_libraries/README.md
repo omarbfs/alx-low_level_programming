@@ -1,2 +1,2 @@
-Project : 
-     0x09. C - Static libraries
+PROJECT :
+    0x09. C - Static libraries
