@@ -2,7 +2,7 @@
 
 /**
  * print_listint - linked list elements prints
- * @j: choosing listint type and print them
+ * @h: choosing listint type and print them
  *
  * Return: nodes number
  */
@@ -11,11 +11,11 @@ size_t print_listint(const listint_t *h)
 {
 	size_t number = 0;
 
-	while (j)
+	while (h)
 	{
-		printf("%d\n", j->n);
+		printf("%d\n", h->n);
 		number++;
-		j = j->next;
+		h = h->next;
 	}
 
 	return (number);
