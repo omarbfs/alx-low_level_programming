@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * binary_to_uint - binary numbers to uns int 
+ * binary_to_uint - binar numbers to int
  * @b: the place of binary number
  *
  * Return: int number
