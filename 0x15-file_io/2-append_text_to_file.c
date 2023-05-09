@@ -5,7 +5,7 @@
 /**
  * append_text_to_file - text appends in file’s end
  * @filename: file’s name ptr
- * @text_content: adding strng in file’s end 
+ * @text_content: adding strng in file’s end
  *
  * Return: function fail  - -1.
  *         file does not exist  - -1.
